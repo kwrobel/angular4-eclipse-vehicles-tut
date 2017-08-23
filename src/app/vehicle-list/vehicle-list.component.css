@@ -1,0 +1,13 @@
+.tftable {
+	border-collapse: collapse;
+	font-family: sans-serif;
+}
+.tftable tr:hover {background-color: lightgrey; left: .1em;}
+.tftable th,td {
+	padding: 0.5em;
+	border: 1px solid black;
+}
+.tftable th {
+	background-color: grey;
+}
+.selected { background-color: aqua !important;}
