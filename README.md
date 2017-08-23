@@ -1,5 +1,9 @@
 # Vehicles
 
+This is a tutorial source code for an example that was made available on DZone for an article called [Creating Your First Angular 4 App Using Angular IDE](https://dzone.com/articles/creating-your-first-angular-4-app-using-angular-id-1?edition=317403&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-08-19).
+
+I made a few corrections to the project in order to make it work.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
 
 ## Development server
